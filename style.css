@@ -2,9 +2,28 @@
     font-family: Helvetica, Arial, sans-serif;
 }
 
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
 .head{
     font-size: 100px;
     font-weight: bold;
     text-align: center;
     background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
+    color: khaki;
+}
+
+.brushes{
+    background-color: mediumspringgreen;
 }
